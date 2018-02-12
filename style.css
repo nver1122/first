@@ -1,0 +1,13 @@
+#qar{
+			position: absolute;
+			/*width: 100px;
+			height: 100px;
+			background-color: red;
+			*/left: 200px;
+			top: 200px;
+			z-index: 1;
+		}
+		.st1{
+			text-align: center;
+			background-color: #22E3E1;
+		}
